@@ -11,7 +11,7 @@ Through my education in cybersecurity, I have been exposed to countless skills a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Elastic SIEM Home Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/MitchV123/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>|
 
 
 ## Tools
@@ -36,4 +36,4 @@ Through my education in cybersecurity, I have been exposed to countless skills a
 </div>
 
 ## Projects
-- Elastic SIEM Home Lab
+- <a href="https://github.com/MitchV123/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>
