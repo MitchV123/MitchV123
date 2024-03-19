@@ -1,5 +1,5 @@
 # Hello, I'm Mitch
-<a href="www.linkedin.com/in/mitchvalis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mitchvalis"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome to my cybersecurity portfolio! I am a recent graduate ready to embark on my adventure into the wide world of cybersecurity. I possess a profound interest in technology, always striving to learn more. I am excited to share my journey and experiences below where I will be continually making additions and edits as I continue my endless pursuit of knowledge. 
 
