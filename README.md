@@ -32,7 +32,7 @@ Through my education in cybersecurity, I have been exposed to countless skills a
 <div>
 <img src="https://img.shields.io/badge/-ISC(2)%20CC-115001?&style=for-the-badge&logo=ISC2&logoColor=white" /> - awarded January 17, 2024
   
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> - not yet earned. Expected April 2024
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> - not yet earned. Expected June 2024
 </div>
 
 ## Projects
