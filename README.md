@@ -12,6 +12,7 @@ Through my education in cybersecurity, I have been exposed to countless skills a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/MitchV123/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>|
+| Digital Forensics                             | <a href="https://github.com/MitchV123/Capture-The-Flag1">Capture The Flag1</a>| 
 
 
 ## Tools
@@ -19,13 +20,28 @@ Through my education in cybersecurity, I have been exposed to countless skills a
 ### SIEM
 <div>
   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-1769ff?&style=for-the-badge&logo=Splunk&logoColor=white" />
+
 </div>
 
 ### Linux
 <div>
-<img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-2C2D72?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-2C2D72?&style=for-the-badge&logo=Nmap&logoColor=white" />
 
+</div>
+
+### Windows
+<div>
+<img src="https://img.shields.io/badge/-Windows%2010-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+  
+</div>
+
+### Virtualization
+<div>
+  <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  
 </div>
 
 ## Certifications
@@ -37,3 +53,4 @@ Through my education in cybersecurity, I have been exposed to countless skills a
 
 ## Projects
 - <a href="https://github.com/MitchV123/Elastic-SIEM-Home-Lab">Elastic SIEM Home Lab</a>
+- <a href="https://github.com/MitchV123/Capture-The-Flag1">Capture The Flag1</a>
